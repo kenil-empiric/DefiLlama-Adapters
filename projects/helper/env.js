@@ -18,6 +18,7 @@ const DEFAULTS = {
   FSC_RPC_MULTICALL: "0x18fA376d92511Dd04090566AB6144847c03557d8",
   XLAYER_RPC: "https://wallet.okex.org/fullnode/xlayer/discover/rpc/ro",
   XLAYER_RPC_MULTICALL: "0x398F92e15519B4F6F2D5cc42C17FC9ED15De53d8",
+  GENESYS_RPC :"https://rpc.genesys.network",
 }
 
 const ENV_KEYS = [
